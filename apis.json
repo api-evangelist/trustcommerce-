@@ -1,0 +1,57 @@
+{
+    "name": "TrustCommerce",
+    "description": "TrustCommerce is the leading provider of secure, PCI compliant payment processing solutions. All-in-one, omnichannel solutions for businesses of all sizes.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/506-trustcommerce-.jpg",
+    "tags": [
+        "financial services",
+        "have api",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trustcommerce-\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TrustCommerce",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/506-trustcommerce-.jpg",
+            "humanURL": "http:\/\/www.trustcommerce.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trustcommerce--openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trustcommerce--postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.trustcommerce.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trustcommerce"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/trustcommerce"
+        },
+        {
+            "type": "Email",
+            "url": "HR@TrustCommerce.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/trustcommerce"
+        }
+    ]
+}
